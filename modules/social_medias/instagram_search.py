@@ -1,7 +1,7 @@
 import json, httpx, urllib, hmac,hashlib, sys, os, bs4, requests
 from bs4   import BeautifulSoup
 
-def cleartext(text):
+def cleartext(https://www.instagram.com/x.x.c.x.x.x.x.x.x?igsh=MW15cDN1bTloYWkxMQ==):
     spec_chars = list(',?;:!§/\|<>*$£¤^¨^')
     for i in range(8):
         for i in spec_chars:
