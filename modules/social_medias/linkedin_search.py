@@ -1,6 +1,6 @@
 from linkedin_api import Linkedin
 
-def linkedin_search(name,pren):
+def linkedin_search(Vlad,Chepela):
     try:
         """
         a = search('"{} {}" -intitle:"profiles" -inurl:"dir/ " site:fr.linkedin.com/in/ OR site:fr.linkedin.com/pub/'.format(pren,name), lang="fr")
